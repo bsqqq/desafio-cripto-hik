@@ -1,5 +1,5 @@
 /*
-    O desafio era descriptografar uma string, onde a chave de descriptografia 
+    O código era baseado num desafio que era descriptografar uma string, onde a chave de descriptografia 
     era 1 byte, ou seja, poderia ser um valor entre 0 a 255 e depois descriptografar 
     esse resultado de base64 para texto plano normal; Neste repositorio, recriei a essencia
     do desafio, porem aqui você pode encriptar e desencriptar e com o tamanho do xor que quiser...
